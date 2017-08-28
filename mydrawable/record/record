@@ -1,0 +1,11 @@
+【Drawable】
+一种可绘制资源的抽象！
+
+【核心】
+draw(canvas)
+//从View中传递而来
+setBounds()
+//指定绘制的边界Rect
+
+【BitmapDrawable】
+是对Bitmap的一种封装，可以设置其绘制方式，如如平铺、拉伸、保持原始大小
